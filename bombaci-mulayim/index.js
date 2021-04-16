@@ -162,4 +162,4 @@ msg.reply
   }
 });
 
-client.login('Nzc5NzMyMzg2MDU2MzcyMjI0.X7k0Xw.yGR3_V3UqTDKIDkcDk7isLQTOas');
+client.login('Token');
